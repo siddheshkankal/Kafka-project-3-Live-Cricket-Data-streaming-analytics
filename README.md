@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Kankal</h1>
 <h3 align="center">A passionate data engineer</h3>
 
-# Kafka-project-2-on-Exam-result-streaming-analytics-
+
 - 🔭 I’m currently working on [Kafka-project-2-on-Exam-result-streaming-analytics-](https://github.com/siddheshkankal/Kafka-project-2-on-Exam-result-streaming-analytics-/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/siddheshkankal](https://github.com/siddheshkankal)
