@@ -1,0 +1,62 @@
+{
+  "$id": "http://example.com/myURI.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "additionalProperties": false,
+  "description": "Sample schema to help you get started.",
+  "properties": {
+    "id": {
+      "description": "The type(v) type is used.",
+      "type": "string"
+    },
+    "name": {
+      "description": "The type(v) type is used.",
+      "type": "string"
+    },
+    "status": {
+      "description": "The type(v) type is used.",
+      "type": "string"
+    },
+    "venue": {
+      "description": "The type(v) type is used.",
+      "type": "string"
+    },
+    "date": {
+      "description": "The type(v) type is used.",
+      "type": "string"
+    },
+    "dateTimeGMT": {
+      "description": "The type(v) type is used.",
+      "type": "string"
+    },
+    "teams": {
+      "description": "The type(v) type is used.",
+      "type": "string"
+    },
+    "teamInfo": {
+      "description": "The type(v) type is used.",
+      "type": "string"
+    },
+    "score": {
+      "description": "The type(v) type is used.",
+      "type": "string"
+    },
+    "series_id": {
+      "description": "The type(v) type is used.",
+      "type": "string"
+    },
+    "fantasyEnabled": {
+      "description": "The type(v) type is used.",
+      "type": "string"
+    },
+    "bbbEnabled": {
+      "description": "The type(v) type is used.",
+      "type": "string"
+    },
+    "hasSquad": {
+      "description": "The type(v) type is used.",
+      "type": "string"
+    }
+  },
+  "title": "SampleRecord",
+  "type": "object"
+}
